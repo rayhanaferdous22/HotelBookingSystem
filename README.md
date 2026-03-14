@@ -62,3 +62,7 @@ Mobile application version
 Email confirmation system
 
 Advanced admin dashboard
+
+AUTHOR:
+Rayhana ferdous
+Jannatul Ferdaus Shimu git link:JAFSHI3072020-lgtm
